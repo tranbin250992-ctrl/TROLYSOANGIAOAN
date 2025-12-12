@@ -262,7 +262,7 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 - Ghi chú bổ sung: "{noidung_bosung}".
 
                 YÊU CẦU LUÔN LUÔN TUÂN THỦ CẤU TRÚC (CÔNG VĂN 2345):
-                I. Yêu cầu cần đạt: Trong phần này lại chia thành các phần sau: 
+                I. YÊU CẦU CẦN ĐẠT: Trong phần này lại chia thành các phần sau: 
                 1. Học sinh thực hiện được, 
                 2. Học sinh vận dụng được, 
                 3. Phát triển năng lực (bao gồm năng lực đặc thù, năng lực chung, phát triển năng lực số), 
@@ -272,11 +272,11 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                     - Nội dung tích hợp Học thông qua chơi trong Yêu cầu cần đạt cần cụ thể chi tiết hơn chút nữa.
                     - Nội dung tích hợp Công dân số cũng cần cụ thể hơn trong yêu cầu cần đạt.
 
-                II. Đồ dùng dạy học
+                II. ĐỒ DÙNG DẠY HỌC
                 1. Giáo viên
                 2. Học sinh
 
-                III. Tiến trình dạy học
+                III. CÁC HOẠT ĐỘNG DẠY - HỌC CHỦ YẾU
                 [QUAN TRỌNG] PHẦN NÀY PHẢI TRÌNH BÀY DƯỚI DẠNG BẢNG (MARKDOWN TABLE) 2 CỘT. 
                 TÊN CÁC HOẠT ĐỘNG PHẢI NẰM Ở CỘT 1 (HOẠT ĐỘNG GIÁO VIÊN).
 
@@ -287,9 +287,9 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 | **3. Hoạt động 3 - Thực hành - luyện tập:**<br>- GV yêu cầu... | - HS thực hiện... |
                 | **4. Hoạt động 4 - Vận dụng:**<br>- GV gợi mở... | - HS chia sẻ... |
 
-                YÊU CẦU CHI TIẾT CHO TIẾN TRÌNH DẠY HỌC:
+                YÊU CẦU CHI TIẾT CHO CÁC HOẠT ĐỘNG DẠY - HỌC CHỦ YẾU
                 - Cần chi tiết cụ thể (đặc biệt là Hoạt động của học sinh).
-                - Các ý trong tiến trình dạy học được bắt đầu bằng dấu gạch đầu dòng (-).
+                - Các ý trong các hoạt động dạy học được bắt đầu bằng dấu gạch đầu dòng (-).
                 - Tích hợp Học thông qua chơi vào 1 số hoạt động phù hợp.
                 - Riêng các trò chơi trong tiến trình dạy học cần TRÌNH BÀY RÕ LUẬT CHƠI.
                 - Không cần ghi "Mục tiêu HTQC".
@@ -298,7 +298,7 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 - Tuyệt đối chỉ bao gồm 4 Hoạt động, không phát sinh thêm.
                 - LUÔN LUÔN TUÂN THỦ THEO NHỮNG YÊU CẦU TRÊN
 
-                IV. Điều chỉnh sau tiết dạy
+                IV. ĐIỀU CHỈNH SAU TIẾT DẠY
 
                 Lưu ý chung: Bám sát nội dung trong Sách giáo khoa và sách giáo viên (từ tài liệu đính kèm) để đưa nội dung vào bài soạn cho chính xác. KHÔNG dùng ký tự # ở đầu dòng.
 
