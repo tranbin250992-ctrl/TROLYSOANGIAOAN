@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Đinh Trần Anh - Trường Tiểu học Phù Loan - ĐT: 097 9996 212</p>
+    <p>Tác giả: Đinh Trần Anh - Trường Tiểu học Phù Loan - ĐT: 097 999 6212</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -278,9 +278,9 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
                 III. CÁC HOẠT ĐỘNG DẠY - HỌC CHỦ YẾU
                 [QUAN TRỌNG] PHẦN NÀY PHẢI TRÌNH BÀY DƯỚI DẠNG BẢNG (MARKDOWN TABLE) 2 CỘT. 
-                TÊN CÁC HOẠT ĐỘNG PHẢI NẰM Ở CỘT 1 (HOẠT ĐỘNG GIÁO VIÊN).
+                TÊN CÁC HOẠT ĐỘNG PHẢI NẰM Ở CỘT 1 Hoạt động của giáo viên).
 
-                | HOẠT ĐỘNG CỦA GIÁO VIÊN | HOẠT ĐỘNG CỦA HỌC SINH |
+                | Hoạt động của giáo viên | Hoạt động của học sinh |
                 |---|---|
                 | **1. Hoạt động 1 - Khởi động:**<br>- GV tổ chức... | - HS tham gia... |
                 | **2. Hoạt động 2 - Hình thành kiến thức mới:**<br>- GV hướng dẫn... | - HS quan sát... |
@@ -347,4 +347,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Đinh Trần Anh - Trường Tiểu học Phù Loan - ĐT: 097 9996 212</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Đinh Trần Anh - Trường Tiểu học Phù Loan - ĐT: 097 999 6212</div>", unsafe_allow_html=True)
